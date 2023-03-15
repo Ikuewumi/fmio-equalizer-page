@@ -25,6 +25,10 @@ header {
         img {
             filter: invert(1);
         }
+        
+        img#top-left {
+            filter: invert(0);
+        }
     }
 
 
